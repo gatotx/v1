@@ -1,0 +1,4 @@
+#!/bin/bash             
+clear
+figlet  " Jokerteam" | lolcat -d 5
+echo ""
